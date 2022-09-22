@@ -1,6 +1,6 @@
 # Introduction
 - 👋 Hi, my name is My and this is my GitHub profile @vqmy-913!
-- 👀 I’m interested in D A T A and what pote
+- 👀 I’m interested in D A T A and its applications in many disciplines :-)
 - 🌱 I’m constantly upskilling, particularly in R, Python and SQL.
 - 💞️ I’m looking to collaborate on any project where I can improve my skills, but I'm also keen on working with others on technical stuff.
 - 📫 Find me on LinkedIn: www.linkedin.com/mynguyen913
