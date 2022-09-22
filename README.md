@@ -1,8 +1,8 @@
 # Introduction
 - 👋 Hi, my name is My and this is my GitHub profile @vqmy-913!
-- 👀 I’m interested in Mathematics and Data Science.
-- 🌱 I’m currently learning R and Python.
-- 💞️ I’m looking to collaborate on any project where I can work on improving data processing skills.
+- 👀 I’m interested in D A T A and what pote
+- 🌱 I’m constantly upskilling, particularly in R, Python and SQL.
+- 💞️ I’m looking to collaborate on any project where I can improve my skills, but I'm also keen on working with others on technical stuff.
 - 📫 Find me on LinkedIn: www.linkedin.com/mynguyen913
 
 <!---
