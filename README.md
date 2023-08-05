@@ -1,8 +1,7 @@
-# Introduction
 - 👋 Hi, my name is My and this is my GitHub profile @vqmy-913!
-- 👀 I’m interested in data and its applications in many disciplines.
-- 🌱 I’m constantly upskilling, particularly in R, Python and SQL.
-- 💞️ I’m looking to collaborate on any project where I can improve my skills but I'm also keen on meeting and coding with other people  ^^
+- 👀 My interest lies in data and how it can be utilised across diverse domains.
+- 🌱 I love programming in Python and using SQL.
+- 💞️ I’m looking to collaborate on any project where I can improve my skills, meet new people and learn from different perspectives.
 - 📫 Find me on LinkedIn: [www.linkedin.com/mynguyen913](https://www.linkedin.com/in/mynguyen913/)
 
 <!---
